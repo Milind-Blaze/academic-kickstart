@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Milind Kumar V
 
 # Username (this should match the folder name)
 authors:
@@ -36,6 +36,7 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

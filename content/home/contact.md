@@ -1,7 +1,7 @@
 +++
 # Contact widget.
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
@@ -15,6 +15,14 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
+email_form = 0
 +++
 
+
+
+If you want to discuss an idea, collaborate on a project, talk about a book or just say hi, feel free to write to me! \
+Email id: __ee16b025 [at] smail [dot] iitm [dot] ac [dot] in__
+
+---
+
+You can also find me at

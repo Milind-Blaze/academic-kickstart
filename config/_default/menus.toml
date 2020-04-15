@@ -9,9 +9,19 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "Talks"
   url = "#posts"
   weight = 20
+
+[[main]]
+  name = "CV"
+  url = "#about"
+  weight = 10
+
+[[main]]
+  name = "Personal"
+  url = "#about"
+  weight = 10
 
 [[main]]
   name = "Projects"
@@ -27,6 +37,9 @@
   name = "Contact"
   url = "#contact"
   weight = 60
+
+
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
