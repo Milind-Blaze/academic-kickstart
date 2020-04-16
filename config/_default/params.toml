@@ -100,14 +100,14 @@ contact_links = [
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Tapti Hostel, IIT Madras", city = "Chennai", region = "Tamil Nadu", postcode = "600036", country = "India", country_code = "IN"}
+address = {street = "ESB, IIT Madras", city = "Chennai", region = "Tamil Nadu", postcode = "600036", country = "India", country_code = "IN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "12.984755", longitude = "80.235087"}
+coordinates = {latitude = "12.989041", longitude = "80.230706"}
 
 # Directions for visitors to locate you.
-directions = "Come on up to room 3009"
+directions = "Come on up to the 5G lab"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

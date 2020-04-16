@@ -10,32 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: EE Senior 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: IIT Madras
+  url: "https://www.iitm.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in the confluence of signal processing, machine learning, communications and biology. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Signal processing
+- Wireless communications
+- Neuroscience
+- 5G technology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.Tech in Electrical Engineering
+    institution: Indian Institute of Technology Madras
+    year: 2020
 
 
 # Social/Academic Networking
@@ -46,15 +41,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Milind-Blaze
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,11 +61,13 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a senior in the Department of Electrical Engineering at IIT Madras. I will soon be pursuing graduate studies at UCLA where I am co-advised by [Prof. Suhas Diggavi](https://www.ee.ucla.edu/suhas-diggavi/) and [Prof. Christina Fragouli](https://www.ee.ucla.edu/christina-fragouli/). I am fascinated by the application of tools from signal processing, machine learning and information theory especially in domains such as neuroscience. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In the past, I have worked with Prof. Karlheinz Brandenburg, Prof. C.S. Ramalingam and Prof. Rana Adhikari. I am presently working towards my Bachelor's thesis with Prof. Radha Krishna Ganti at the 5G Lab at IIT Madras. 
+
+When I'm not working, I love reading, playing sports and organizing events! 
