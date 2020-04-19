@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My Project Name"
+title: "Music Mood Annotation"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-04-18T15:03:52+05:30
+date: 2020-04-19T22:00:18+05:30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

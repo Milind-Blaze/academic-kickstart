@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Laser beam position tracking for LIGO"
-summary: ""
+summary: "Laser beams are awesome"
 authors: []
-tags: []
+tags: ["Deep Learning", "Physics"]
 categories: []
 date: 2020-04-18T16:25:16+05:30
 
