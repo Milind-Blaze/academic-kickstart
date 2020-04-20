@@ -1,11 +1,9 @@
 ---
-title: "An example title is this"
-summary: Here we describe how to add a page to your site.
+title: "Projects"
+summary: Research projects I've worked on over the years
 date: "2018-06-28T00:00:00Z"
 
 type: widget_page
 
 ---
-
-Add your *content* here...
 

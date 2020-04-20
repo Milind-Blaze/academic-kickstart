@@ -28,10 +28,14 @@ subtitle = ""
    [[content.filter_button]]
      name = "Deep Learning"
      tag = "Deep Learning"
+
+   [[content.filter_button]]
+     name = "Signal processing/Communications"
+     tag = "Miscellaneous"
   
    [[content.filter_button]]
      name = "Other"
-     tag = "Demo"
+     tag = "Miscellaneous"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -74,3 +78,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<p align="center" style="font-size:50px"> 
+<b>
+Projects
+</b> 
+</p>
+
+This page lists some of the projects I've worked on since the beginning of my undergraduate education. My work has primarily involved topics in signal processing, deep learning, communications and 
