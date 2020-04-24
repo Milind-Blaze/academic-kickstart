@@ -3,8 +3,8 @@
 
 title: "8 Bit Microprocessor"
 summary: ""
-authors: []
-tags: []
+authors: ["admin"]
+tags: ["Miscellaneous", "Hardware"]
 categories: []
 date: 2020-04-19T22:11:48+05:30
 
@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/Milind-Blaze/8-bit-microprocessor"
+url_pdf: "https://github.com/Milind-Blaze/8-bit-microprocessor/blob/master/8%20bit%20Microprocessor.pdf"
 url_slides: ""
 url_video: ""
 

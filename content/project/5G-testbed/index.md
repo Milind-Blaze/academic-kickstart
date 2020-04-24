@@ -3,8 +3,8 @@
 
 title: "5G Testbed"
 summary: ""
-authors: []
-tags: []
+authors: ["admin"]
+tags: ["SPandComms", "Hardware", "5G"]
 categories: []
 date: 2020-04-19T22:12:24+05:30
 
@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Lab
+  url: http://www.ee.iitm.ac.in/5g/
+  icon_pack: fas
+  icon: wifi
 
 url_code: ""
 url_pdf: ""

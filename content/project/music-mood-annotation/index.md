@@ -3,8 +3,8 @@
 
 title: "Music Mood Annotation"
 summary: ""
-authors: []
-tags: []
+authors: ["admin"]
+tags: ["Deep Learning", "SPandComms"]
 categories: []
 date: 2020-04-19T22:00:18+05:30
 
@@ -21,14 +21,14 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Lab
+  url: https://www.researchgate.net/institution/Fraunhofer_Institute_for_Digital_Media_Technology_IDMT/department/Semantic_Music_Technologies_Research_Group
+  icon_pack: fas
+  icon: file-audio
 
 url_code: ""
-url_pdf: ""
+url_pdf: "../project/music-mood-annotation/report.pdf"
 url_slides: ""
 url_video: ""
 

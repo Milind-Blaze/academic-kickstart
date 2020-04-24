@@ -22,7 +22,7 @@
 
   [[main]]
   name = "Talks"
-  url = "#posts"
+  url = "my_talks/"
   weight = 30
 
 [[main]]

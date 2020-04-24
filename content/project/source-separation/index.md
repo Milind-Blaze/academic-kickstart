@@ -3,8 +3,8 @@
 
 title: "Source Separation"
 summary: ""
-authors: []
-tags: []
+authors: ["admin"]
+tags: ["SPandComms"]
 categories: []
 date: 2020-04-19T22:00:07+05:30
 
@@ -27,10 +27,10 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/Milind-Blaze/source_separation"
+url_pdf: "../project/source-separation/report.pdf"
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=vc-WlAqv17c"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
