@@ -4,3 +4,17 @@
 # Hugo
 resources/
 public/
+
+# Extra files
+
+content/authors/admin/avatar1.jpg
+content/authors/admin/avatar2.jpg
+content/authors/admin/avatar4.jpg
+static/img/featured.jpg
+static/img/ilmenau.jpg
+static/img/ilmenau2.jpeg
+static/img/ilmenau3.jpeg
+static/img/ilmenau5.jpg
+static/img/ilmenau6.jpg
+static/img/isec_image.jpg
+static/img/tree.JPG
