@@ -7,7 +7,6 @@ authors: ["admin"]
 tags: ["Event Organization", "Shaastra"]
 categories: []
 date: 2019-05-05T11:40:42+05:30
-
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

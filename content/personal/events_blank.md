@@ -4,9 +4,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 3  # Order that this section will appear.
 
-title = "Organizing events and volunteering"
+title = "Organizing Events and Volunteering"
 subtitle = ""
 
 [design]
@@ -50,7 +50,8 @@ subtitle = ""
 
 I thoroughly enjoy working as a part of large teams. At IIT Madras, I have had the opportunity to work with brilliant people in multiple teams and do things that I am extremely passionate about. Through these experiences I have learnt much, found incredible mentors and made steadfast friends. I am always on the lookout for new opportunities to volunteer or work with teams that are passionate about what they do. 
 
-## __So if you're doing something fun or know someone who needs a volunteer, feel free to write to me!__ That said, here are some of the amazing teams I've had the privilege to be a part of:
+## __So if you're doing something fun or know someone who needs a volunteer, feel free to write to me!__ 
+That said, here are some of the amazing teams I've had the privilege to be a part of:
 
 <sub><sup>Image credits: [Photo from Pexels](https://www.pexels.com/photo/architecture-auditorium-building-chairs-258947/) </sup></sub>
  
