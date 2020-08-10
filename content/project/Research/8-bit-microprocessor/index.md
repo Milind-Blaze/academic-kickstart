@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "8 Bit Microprocessor"
-summary: ""
+summary: "Simulation of an 8 bit microprocessor using Verilog."
 authors: ["admin"]
 tags: ["Miscellaneous", "Hardware", "Project"]
 categories: []
@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Schematic of microprocessor"
   focal_point: ""
   preview_only: false
 
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+An 8 bit microprocessor is simulated in this work using Verilog. It supports the add, subtract, bitwise AND, bitwise OR, left shift, right shift and compare operations. It also allows LOAD, STORE, MOV, LOAD DIRECT. This is accompanied by a Python based assembler. Two sample programs- one for the summation of the first few natural numbers and the second for factorial computation- are implemented on the simulated microprocessor. 

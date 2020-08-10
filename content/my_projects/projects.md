@@ -89,8 +89,5 @@ Projects
 </b> 
 </p>
 
-This page lists some of the projects I've worked on since the beginning of my undergraduate education. My work has primarily involved topics in signal processing, deep learning and communications. I am particularly fascinated by the application of tools developed in these areas to problems in other domains and hope to make forays into performing such interdisciplinary research in the future.   
+This page lists some of the projects I've worked on since the beginning of my undergraduate studies. My work has primarily involved topics in signal processing, deep learning and communications. I am particularly fascinated by the application of tools developed in these areas to problems in other disciplines and hope to perform such interdisciplinary research.   
 
-# Raise the tag issue
-
-# Raise the contact sliding issue

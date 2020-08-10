@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Laser beam position tracking for LIGO interferometers"
+title: "Laser Beam Position Tracking for LIGO Interferometers"
 event: "LIGO SURF"
 event_url: https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/
-location: 
+location: "Caltech"
 address:
-  street: West Bridge building, Caltech
-  city: Pasadena
-  region: California
-  postcode: 91125
-  country: USA
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: 
 summary: 
-abstract:
+abstract: LIGO interferometers used to detect gravitational waves achieve extremely high sensitivity through precise angular control of suspended optics that direct the laser beam. A host of sensing techniques, ranging from optical levers and wavefront sensors to suitably positioned quadrant photodiodes are used to detect the angular position and deviation of optics. This talk discusses the use of Gigabit Ethernet (GigE) cameras capturing images of light scattered from optics to determine the position of the laser beam on the optic. A number of approaches based on tools from image processing are employed to discern the motion of the beam spot from video. They are found to be unreliable and discarded in favour of convolutional neural networks. These are trained on data generated at the 40m laboratory at Caltech and the results are analysed. Further, several directions of future work are also presented. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "../project/ligo/presentation.pdf"
+url_slides: "project/research/ligo/presentation.pdf"
 
 url_code:
-url_pdf: "../project/ligo/Final_Report.pdf"
+url_pdf: "project/research/ligo/Final_Report.pdf"
 url_video:
 
 # Markdown Slides (optional).
@@ -64,5 +64,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["ligo"]
+projects: ["Research/ligo"]
 ---
+
+

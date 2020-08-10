@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "5G Testbed"
-summary: ""
+summary: "Multiple projects done at the Indigenous 5G Testbed at IIT Madras."
 authors: ["admin"]
 tags: ["SPandComms", "Hardware", "5G", "Project"]
 categories: []
@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "USRP N321"
   focal_point: ""
   preview_only: false
 
@@ -39,3 +39,14 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+At the Indigenous 5G Testbed at IIT Madras I have worked on several projects of which the following are of some significance. 
+
+
+
+- [Receiver design and implementation for the Indigenous 5G Testbed](../5g-receiver)
+- [Half-duplex system design using USRP N321](../5g-half-duplex)
+- [MIMO channel estimation using PDSCH DMRS](../5g-dmrs)
+
+ 
+

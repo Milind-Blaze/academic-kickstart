@@ -20,8 +20,11 @@ email_form = 0
 
 
 
-If you want to discuss an idea, collaborate on a project, talk about a book or just say hi, feel free to write to me! \
-Email id: __ee16b025 [at] smail [dot] iitm [dot] ac [dot] in__
+If you want to discuss an idea, collaborate on a project, talk about a book or just say hi, feel free to write to me!   
+
+Email id: __ee16b025 [at] smail [dot] iitm [dot] ac [dot] in__  
+
+Alternate email id: __milindkumarvaddiraju [at] gmail [dot] com__     
 
 ---
 

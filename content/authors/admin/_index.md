@@ -44,6 +44,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/milind-kumar-v-615b10134/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -66,8 +69,8 @@ email: ""
 # - Visitors
 ---
 
-I am a senior in the Department of Electrical Engineering at IIT Madras. I will soon be pursuing graduate studies at UCLA where I am co-advised by [Prof. Suhas Diggavi](https://www.ee.ucla.edu/suhas-diggavi/) and [Prof. Christina Fragouli](https://www.ee.ucla.edu/christina-fragouli/). I am fascinated by the application of tools from signal processing, machine learning and information theory especially in domains such as neuroscience. 
+I am a senior in the Department of Electrical Engineering at IIT Madras. <!-- I will soon be pursuing graduate studies at UCLA where I am co-advised by [Prof. Suhas Diggavi](https://www.ee.ucla.edu/suhas-diggavi/) and [Prof. Christina Fragouli](https://www.ee.ucla.edu/christina-fragouli/). --> I am fascinated by the application of tools from signal processing, machine learning and information theory, especially in domains such as neuroscience. 
 
-In the past I have worked with [Prof. Karlheinz Brandenburg](https://en.wikipedia.org/wiki/Karlheinz_Brandenburg), [Prof. C.S. Ramalingam](http://www.ee.iitm.ac.in/~csr/) and [Prof. Rana Adhikari](https://iqim.caltech.edu/profile/rana-adhikari/). I am presently working towards my Bachelor's thesis with [Prof. Radha Krishna Ganti](http://www.ee.iitm.ac.in/~rganti/) at the 5G Lab at IIT Madras. 
+In the past I have worked with [Prof. Karlheinz Brandenburg](https://en.wikipedia.org/wiki/Karlheinz_Brandenburg), [Prof. C.S. Ramalingam](http://www.ee.iitm.ac.in/~csr/) and [Prof. Rana Adhikari](https://iqim.caltech.edu/profile/rana-adhikari/). I am presently working with [Prof. Radhakrishna Ganti](http://www.ee.iitm.ac.in/~rganti/) at the 5G Lab at IIT Madras. 
 
 When I'm not working, I love reading, playing sports and organizing events! 

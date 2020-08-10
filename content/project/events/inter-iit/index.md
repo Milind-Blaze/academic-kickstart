@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Inter IIT Sports meet Organizing Team"
+subtitle: "May 2017 - December 2018"
 summary: "Coordinator, Hospitality Team, Inter IIT Organizing Team"
 authors: ["admin"]
 tags: ["Event Organization"]
@@ -17,7 +18,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -39,3 +40,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+{{< youtube id="3_7_w6HuJJQ" >}}
+
+
+The Inter IIT Sports meet is the annual inter college sports tournament in which 23 of the IITs participate. In 2017, IIT Madras hosted the event. As a coordinator in the organizing team, I was entrusted with the task of ensuring that contingents visiting from other IITs had a comfortable stay at IIT Madras. While being an organizing member allowed me to experience the celebratory fervor of sport in full, it also afforded me the opportunity to meet and have fantastic interactions with peers from across the country!
+
+

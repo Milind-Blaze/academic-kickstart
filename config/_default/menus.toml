@@ -27,7 +27,7 @@
 
 [[main]]
   name = "CV"
-  url = "#about"
+  url = "cv/cv_august_2020.pdf"
   weight = 40
 
 [[main]]
