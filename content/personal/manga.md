@@ -3,7 +3,7 @@
 
 widget = "blank"
 headless = true
-active = true
+active = false
 weight = 5
 
 title = "Manga, Manhwa and Anime"
