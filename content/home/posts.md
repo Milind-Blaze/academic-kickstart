@@ -70,4 +70,4 @@ subtitle = ""
 
 __Some of my recent posts- technical and otherwise!__  
 
-No recent posts! I look forward to posting something new soon!
+<!-- No recent posts! I look forward to posting something new soon! -->

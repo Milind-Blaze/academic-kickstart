@@ -5,7 +5,7 @@ title: "The Last Supper"
 subtitle: "A Story for the Hostel Yearbook"
 summary: "A semi-fictional story about my last day at IIT Madras and the feeling of loss, longing and nostalgia of those last few hours."
 authors: ["admin"]
-tags: ["Creative Writing"]
+tags: ["Creative Writing", "Recent"]
 categories: []
 date: 2020-08-09T17:54:00+05:30
 lastmod: 2020-08-09T17:54:00+05:30
