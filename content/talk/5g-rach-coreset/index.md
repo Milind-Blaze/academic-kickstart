@@ -24,7 +24,7 @@ date: 2020-04-30T13:00:00+05:30
 publishDate: 2020-08-04T21:35:14+05:30
 
 authors: ["admin"]
-tags: ["5G", "SPandComms"]
+tags: ["5G", "SPandComms", "Technical"]
 
 # Is this a featured talk? (true/false)
 featured: false
