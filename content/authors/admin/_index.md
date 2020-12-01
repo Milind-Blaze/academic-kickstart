@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior, Dept. of Electrical Engineering 
+role: Project Associate, Dept. of Electrical Engineering 
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +18,13 @@ organizations:
   url: "https://www.iitm.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in the confluence of signal processing, machine learning, communications and biology. 
+bio: I am interested in the confluence of signal processing, machine learning and communications. 
 
 interests:
-- Signal processing
 - Wireless communications
-- Neuroscience
+- Deep learning
 - 5G technology
+- Signal processing
 
 education:
   courses:
@@ -69,8 +69,10 @@ email: ""
 # - Visitors
 ---
 
-I am a senior in the Department of Electrical Engineering at IIT Madras. <!-- I will soon be pursuing graduate studies at UCLA where I am co-advised by [Prof. Suhas Diggavi](https://www.ee.ucla.edu/suhas-diggavi/) and [Prof. Christina Fragouli](https://www.ee.ucla.edu/christina-fragouli/). --> I am fascinated by the application of tools from signal processing, machine learning and information theory, especially in domains such as neuroscience. 
+I recently graduated with a B.Tech in Electrical Engineering from IIT Madras and am currently working as a Project Associate at the [Indigenous 5G Testbed](http://www.ee.iitm.ac.in/5g/) with [Prof. Radhakrishna Ganti](http://www.ee.iitm.ac.in/~rganti/) where, alongside pursuing other projects, I am contributing to the design and development of an end to end 5G compliant system. <!-- I will soon be pursuing graduate studies at UCLA where I am co-advised by [Prof. Suhas Diggavi](https://www.ee.ucla.edu/suhas-diggavi/) and [Prof. Christina Fragouli](https://www.ee.ucla.edu/christina-fragouli/). -->  
 
-In the past I have worked with [Prof. Karlheinz Brandenburg](https://en.wikipedia.org/wiki/Karlheinz_Brandenburg), [Prof. C.S. Ramalingam](http://www.ee.iitm.ac.in/~csr/) and [Prof. Rana Adhikari](https://iqim.caltech.edu/profile/rana-adhikari/). I am presently working with [Prof. Radhakrishna Ganti](http://www.ee.iitm.ac.in/~rganti/) at the 5G Lab at IIT Madras. 
+Broadly, I am interested in problems in wireless communication and deep learning, especially those lying at the intersection of the two where tools from signal processing and information theory can be used. 
+
+In the past, I have worked with [Prof. Karlheinz Brandenburg](https://en.wikipedia.org/wiki/Karlheinz_Brandenburg), [Prof. C.S. Ramalingam](http://www.ee.iitm.ac.in/~csr/) and [Prof. Rana Adhikari](https://iqim.caltech.edu/profile/rana-adhikari/). 
 
 When I'm not working, I love reading, playing sports and organizing events! 
