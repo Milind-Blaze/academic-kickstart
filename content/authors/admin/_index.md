@@ -10,24 +10,25 @@ authors:
 superuser: true
 
 # Role/position
-role: Project Associate, Dept. of Electrical Engineering 
+role: PhD student, CSL
 
 # Organizations/Affiliations
 organizations:
-- name: IIT Madras
-  url: "https://www.iitm.ac.in/"
+- name: UIUC
+  url: "https://ece.illinois.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in the confluence of signal processing, machine learning and communications. 
+bio: I am interested in 5G and the decentralization of wireless technology. 
 
 interests:
-- Wireless communications
-- Deep learning
+- Decentralized wireless
 - 5G technology
-- Signal processing
 
 education:
   courses:
+  - course: PhD in Electrical and Computer Engineering
+    institution: University of Illinios Urbana-Champaign
+    year: 2026
   - course: B.Tech in Electrical Engineering
     institution: Indian Institute of Technology Madras
     year: 2020
@@ -58,6 +59,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=tSriKaoAAAAJ&hl=en&oi=ao
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,10 +73,9 @@ email: ""
 # - Visitors
 ---
 
-I recently graduated with a B.Tech in Electrical Engineering from IIT Madras and am currently working as a Project Associate at the [Indigenous 5G Testbed](http://www.ee.iitm.ac.in/5g/) with [Prof. Radhakrishna Ganti](http://www.ee.iitm.ac.in/~rganti/) where, alongside pursuing other projects, I am contributing to the design and development of an end to end 5G compliant system. <!-- I will soon be pursuing graduate studies at UCLA where I am co-advised by [Prof. Suhas Diggavi](https://www.ee.ucla.edu/suhas-diggavi/) and [Prof. Christina Fragouli](https://www.ee.ucla.edu/christina-fragouli/). -->  
+I am a second year PhD student at UIUC working with [Prof. Pramod Viswanath](https://web3.princeton.edu/members/). Broadly, I am interested in decentralizing wireless technology and in the plethora of interesting problems surrounding that. This amounts to asking how one can enable the building of wireless, especially cellular, networks bottom up with individuals and small enterprises organically forming and growing the network in an inexpensive manner in the absence of trust. 
 
-Broadly, I am interested in problems in wireless communication and deep learning, especially those lying at the intersection of the two where tools from signal processing and information theory can be used. 
 
-In the past, I have worked with [Prof. Karlheinz Brandenburg](https://en.wikipedia.org/wiki/Karlheinz_Brandenburg), [Prof. C.S. Ramalingam](http://www.ee.iitm.ac.in/~csr/) and [Prof. Rana Adhikari](https://iqim.caltech.edu/profile/rana-adhikari/). 
+I obtained my B.Tech in Electrical Engineering from IIT Madras where I worked with [Prof. Radhakrishna Ganti](http://www.ee.iitm.ac.in/~rganti/) at the [Indigenous 5G Testbed](http://www.ee.iitm.ac.in/5g/).
 
 When I'm not working, I love reading, playing sports and organizing events! 
