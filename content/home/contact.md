@@ -24,7 +24,7 @@ If you want to discuss an idea, collaborate on a project, talk about a book or j
 
 Email id: __milindkumarvaddiraju [at] gmail [dot] com__    
 
-<!-- Alternate email id: __milindkumarvaddiraju [at] gmail [dot] com__      -->
+Alternate email id: __mkv4 [at] illinois [dot] edu__     
 
 ---
 
