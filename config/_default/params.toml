@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "dark"
+theme = "minimal"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -100,14 +100,14 @@ contact_links = [
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "ESB, IIT Madras", city = "Chennai", region = "Tamil Nadu", postcode = "600036", country = "India", country_code = "IN"}
+address = {street = "CSL, UIUC", city = "Champaign", region = "Illinois", postcode = "61820", country = "USA", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "12.989041", longitude = "80.230706"}
+coordinates = {latitude = "40.11495132857611", longitude = "-88.22670877330908"}
 
 # Directions for visitors to locate you.
-directions = "Come on up to the 5G lab"
+directions = "108"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -175,7 +175,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
+  shape = "square"
 
 # Available address formats.
 [address_formats]

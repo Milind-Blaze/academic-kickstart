@@ -15,10 +15,10 @@
   url = "my_projects/"
   weight = 20
 
-# [[main]]
-  # name = "Publications"
-  # url = "#featured"
-  # weight = 25
+[[main]]
+  name = "Publications"
+  url = "my_publications/"
+  weight = 15
 
   [[main]]
   name = "Talks"
