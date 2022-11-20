@@ -4,7 +4,7 @@
 title: "5G Testbed"
 summary: "Multiple projects done at the Indigenous 5G Testbed at IIT Madras."
 authors: ["admin"]
-tags: ["SPandComms", "Hardware", "5G", "Project"]
+tags: ["SPandComms", "Hardware", "Project", "Undergraduate Project"]
 categories: []
 date: 2020-04-19T22:12:24+05:30
 

@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 100  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 90  # Order that this section will appear.
 
-title = "Other Presentations"
+title = "Course Presentations"
 subtitle = ""
 
 [content]
@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Non-technical"
+    tag = "Course Talk"
     category = ""
     publication_type = ""
     author = ""
@@ -68,3 +68,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Talks given as a part of courses I took. These could be summaries of papers, technical specification or even original work. Once again, click away for associated documentation!

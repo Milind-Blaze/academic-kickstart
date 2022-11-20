@@ -4,7 +4,7 @@
 title: "Music Mood Annotation"
 summary: "Creation of a dataset and implementation of deep learning techniques for automatic music emotion recognition."
 authors: ["admin"]
-tags: ["Deep Learning", "SPandComms", "Project"]
+tags: ["Deep Learning", "SPandComms", "Undergraduate Project"]
 categories: []
 date: 2020-04-19T22:00:18+05:30
 

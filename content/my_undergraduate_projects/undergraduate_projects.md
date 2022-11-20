@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -23,16 +23,19 @@ subtitle = ""
   
    [[content.filter_button]]
      name = "All"
-     tag = "Project"
+     tag = "Undergraduate Project"
   
    [[content.filter_button]]
-     name = "5G"
-     tag = "5G"
+     name = "Deep Learning"
+     tag = "Deep Learning"
 
    [[content.filter_button]]
-     name = "Decentralized Wireless"
-     tag = "Decentralized Wireless"
+     name = "Signal processing/Communications"
+     tag = "SPandComms"
   
+   [[content.filter_button]]
+     name = "Other"
+     tag = "Miscellaneous"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -82,10 +85,9 @@ subtitle = ""
 
 <p align="center" style="font-size:50px"> 
 <b>
-Projects
+Undergraduate Projects
 </b> 
 </p>
 
-I am broadly interested in 5G and decentralizing wireless technology. Owing to the former, I spent quite some time building a part of the [Indigenous 5G Testbed](https://www.ee.iitm.ac.in/5g/) at IIT Madras. The latter combines classical networking and wireless technology, cryptography and blockchain, game theory and in some of its incarnations, even policy. My work in this domain attempts to design purely technological solutions that enable the organic growth of a network from the ground up by correctly incentivised players.     
+This page lists some of the projects I worked on as undergraduate at IIT Madras. The topics of my undergraduate exploration ranged from signal processing, deep learning and communications to applied physics. 
 
-Some of my older undergraduate work can be found [here](../my_undergraduate_projects/).

@@ -4,7 +4,7 @@
 title: "Laser beam position tracking for LIGO"
 summary: "Deep learning for laser beam position tracking for LIGO interferometers."
 authors: []
-tags: ["Deep Learning", "Physics", "Hardware", "Project"]
+tags: ["Deep Learning", "Physics", "Hardware", "Undergraduate Project"]
 categories: []
 date: 2020-04-18T16:25:16+05:30
 

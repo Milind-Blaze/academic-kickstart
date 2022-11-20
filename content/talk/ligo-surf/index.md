@@ -24,7 +24,7 @@ date: 2019-07-26T13:00:56-07:00
 # publishDate: 2020-04-20T21:19:56+05:30
 
 authors: ["admin"]
-tags: ["Deep Learning", "Physics", "Hardware", "Technical"]
+tags: ["Deep Learning", "Physics", "Hardware", "Research Talk"]
 
 # Is this a featured talk? (true/false)
 featured: false

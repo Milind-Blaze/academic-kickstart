@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Trust-free service measurement and payments for decentralized cellular networks"
+title: "HotNets '22: Trust-free service measurement and payments for decentralized cellular networks"
 authors: ["admin"]
 date: 2022-11-15T20:30:00+05:30
 doi: ""
