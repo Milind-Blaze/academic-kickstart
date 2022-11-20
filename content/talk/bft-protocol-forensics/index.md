@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Bft Protocol Forensics"
+title: "BFT Protocol Forensics"
 event: "UIUC CS 598 FTD: Fault-Tolerant Distributed Algorithms"
 event_url: "https://sites.google.com/view/cs598ftd/home"
 location: "UIUC"
