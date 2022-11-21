@@ -19,6 +19,18 @@
   url = "my_projects/"
   weight = 20
 
+# [[main]]
+#   name = "Recent Projects"
+#   url = "my_projects/"
+#   parent = "Projects"
+#   weight = 20
+
+# [[main]]
+#   name = "Undergraduate Projects"
+#   url = "my_undergraduate_projects/"
+#   parent = "Projects"
+#   weight = 20
+
 [[main]]
   name = "Posts"
   url = "#posts"
@@ -29,6 +41,10 @@
   url = "my_talks/"
   weight = 30
 
+[[main]]
+  name = "Teaching"
+  url = "my_teaching/"
+  weight = 30
 # [[main]]
 #   name = "CV"
 #   url = "cv/cv_latest.pdf"
