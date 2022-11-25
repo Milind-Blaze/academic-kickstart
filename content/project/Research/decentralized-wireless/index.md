@@ -47,4 +47,4 @@ This project involves solving a number of problems-
 
 The resulting work is below-
 
-- [Two-sided measurements](publication/hotnets-2022)
+- [Two-sided measurements](../../../publication/hotnets-2022)
