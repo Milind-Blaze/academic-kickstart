@@ -50,7 +50,7 @@ url_slides: "talk/proof-of-service/Proof_of_service.pdf"
 
 url_code:
 url_pdf:
-url_video:
+url_video: "https://www.youtube.com/watch?v=IJM75fySg6Y"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -66,3 +66,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: ["Research/decentralized-wireless"]
 ---
+
