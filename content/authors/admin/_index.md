@@ -22,8 +22,8 @@ bio: I am interested in 5G and the decentralization of wireless technology.
 
 interests:
 - Low latency networking
-- Decentralized wireless
-- 5G technology
+- Extended Reality (XR)
+- 5G and Wi-Fi technology
 
 education:
   courses:
@@ -74,9 +74,9 @@ email: ""
 # - Visitors
 ---
 
-I am a second year PhD student at UIUC working with [Prof. Brighten Godfrey](https://pbg.cs.illinois.edu/). I am currently interested in the the design of deployable solutions that use virtual channels with disparate properties in wide area and wireless networks to improve application perofrmance.  
+I am a third year PhD student at UIUC working with [Prof. Brighten Godfrey](https://pbg.cs.illinois.edu/). I am currently interested in the the design of deployable solutions that use multiple paths, each  with startkly different properties, in wide area and wireless networks to improve application performance.  
 
-I also worked with [Prof. Pramod Viswanath](https://web3.princeton.edu/members/) on decentralizing wireless technology. 
-Before this, I obtained my B.Tech in Electrical Engineering from IIT Madras where I worked with [Prof. Radhakrishna Ganti](http://www.ee.iitm.ac.in/~rganti/) at the [Indigenous 5G Testbed](http://www.ee.iitm.ac.in/5g/) and continue to maintain an active interest in 5G technology.
+Previously, I worked on decentralizing wireless technology. 
+I obtained my B.Tech in Electrical Engineering from IIT Madras where I worked with [Prof. Radhakrishna Ganti](http://www.ee.iitm.ac.in/~rganti/) at the [Indigenous 5G Testbed](http://www.ee.iitm.ac.in/5g/) and continue to maintain an active interest in 5G technology.
 
 When I'm not working, I love reading, playing sports and organizing events! 

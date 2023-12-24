@@ -25,6 +25,11 @@ subtitle = ""
      name = "All"
      tag = "Project"
   
+  [[content.filter_button]]
+     name = "Low-latency Networking"
+     tag = "Low-latency Networking"
+
+
    [[content.filter_button]]
      name = "5G"
      tag = "5G"
@@ -86,6 +91,9 @@ Projects
 </b> 
 </p>
 
-I am broadly interested in 5G and decentralizing wireless technology. Owing to the former, I spent quite some time building a part of the [Indigenous 5G Testbed](https://www.ee.iitm.ac.in/5g/) at IIT Madras. The latter combines classical networking and wireless technology, cryptography and blockchain, game theory and in some of its incarnations, even policy. My work in this domain attempts to design purely technological solutions that enable the organic growth of a network from the ground up by correctly incentivised players.     
+
+Currently I am interested in multipath networking using paths with very different properties for interactive applications like cloud gaming and XR. These paths can exist in many forms-slicing in 5G NR, WTSN in Wi-Fi and different routes in WANs-and trade off some subset of throughput, reliability and latency for the rest of them. 
+
+I have also worked on building trust-free, decentralized cellular networks. Before graduate school, I was a part of the [Indigenous 5G Testbed](https://www.ee.iitm.ac.in/5g/) team at IIT Madras.      
 
 Some of my older undergraduate work can be found [here](../my_undergraduate_projects/).
