@@ -18,7 +18,7 @@ organizations:
   url: "https://ece.illinois.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in 5G and the decentralization of wireless technology. 
+bio: I am interested in protocol and algorithm design across the network stack
 
 interests:
 - Low latency networking
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Electrical and Computer Engineering
     institution: University of Illinios Urbana-Champaign
-    year: 2026
+    year: 2027
   - course: B.Tech in Electrical Engineering
     institution: Indian Institute of Technology Madras
     year: 2020
@@ -74,7 +74,7 @@ email: ""
 # - Visitors
 ---
 
-I am a third year PhD student at UIUC working with [Prof. Brighten Godfrey](https://pbg.cs.illinois.edu/). I am currently interested in the the design of deployable solutions that use multiple paths, each  with startkly different properties, in wide area and wireless networks to improve application performance.  
+I am a PhD student at UIUC working with [Prof. Brighten Godfrey](https://pbg.cs.illinois.edu/). I am currently interested in the the design of deployable solutions that use multiple paths, each  with starkly different properties, in wide area and wireless networks to improve application performance. I am generally interested in protocol and algorithm design across the network stack. 
 
 Previously, I worked on decentralizing wireless technology. 
 I obtained my B.Tech in Electrical Engineering from IIT Madras where I worked with [Prof. Radhakrishna Ganti](http://www.ee.iitm.ac.in/~rganti/) at the [Indigenous 5G Testbed](http://www.ee.iitm.ac.in/5g/) and continue to maintain an active interest in 5G technology.
